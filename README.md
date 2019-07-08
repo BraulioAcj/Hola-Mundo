@@ -1,3 +1,3 @@
 # Hola-Mundo
-El mundo de Braulio y Paula
-pensamos lo mismo que mi compañera Ana
+El mundo de Braulio y Paula.
+Nosotros pensamos lo mismo que nuestra compañera Ana
